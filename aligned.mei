@@ -946,12 +946,12 @@
 						<measure label="13" n="13" xml:id="measure_8ac4700b-855d-4baf-912a-d671b4b40e6c">
 							<staff facs="#zone_7322ed0e-5360-4f77-b126-2346ed0ca75d" label="1" n="1" xml:id="staff_769f22ec-f8ea-4dee-ab14-200da37415b1">
 								<layer>
-									<note dots="0" dur="4" oct="5" pname="f"/>
+									<note dots="0" dur="4" oct="4" pname="a"/>
 									<rest dots="0" dur="8"/>
 									<beam>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="4" pname="a"/>
+										<note dots="0" dur="8" oct="5" pname="c"/>
+										<note dots="0" dur="8" oct="4" pname="a"/>
 									</beam>
 								</layer>
 							</staff>
