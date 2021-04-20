@@ -160,7 +160,7 @@
 								<staffDef meter.sym="common" n="6"/>
 								<staffDef meter.sym="common" n="5"/>
 								<staffDef meter.sym="common" n="4"/>
-								<staffDef meter.sym="common" n="3"/>
+								<staffDef key.sig="3f" meter.sym="common" n="3"/>
 								<staffDef key.sig="1f" meter.sym="common" n="2"/>
 								<staffDef key.sig="1f" meter.sym="common" n="1"/>
 							</staffGrp>
