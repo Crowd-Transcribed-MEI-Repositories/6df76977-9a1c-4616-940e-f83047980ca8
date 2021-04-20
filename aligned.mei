@@ -484,7 +484,17 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_22b2a95e-3a12-4339-b22a-35a679d28625" label="6" n="6" xml:id="staff_b56b57fe-06d3-40ac-afe5-15053d341f0d">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="8"/>
+									<beam>
+										<note dots="0" dur="8" oct="4" pname="b"/>
+										<note dots="0" dur="8" oct="4" pname="b"/>
+										<note dots="0" dur="8" oct="4" pname="b"/>
+									</beam>
+									<note dots="0" dur="8" oct="4" pname="b"/>
+									<note dots="0" dur="4" oct="4" pname="b"/>
+									<note dots="0" dur="8" oct="4" pname="b"/>
+								</layer>
 							</staff>
 						</measure>
 						<measure label="6" n="6" xml:id="measure_cf507445-af8c-47af-9fe0-1d681e392385">
