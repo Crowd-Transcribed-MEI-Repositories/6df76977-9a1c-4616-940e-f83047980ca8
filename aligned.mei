@@ -321,11 +321,11 @@
 								<layer>
 									<rest dots="0" dur="8"/>
 									<beam>
-										<note dots="0" dur="8" oct="3" pname="d"/>
-										<note dots="0" dur="8" oct="3" pname="d"/>
-										<note dots="0" dur="8" oct="3" pname="d"/>
+										<note dots="0" dur="8" oct="3" pname="g"/>
+										<note dots="0" dur="8" oct="3" pname="a"/>
+										<note dots="0" dur="8" oct="3" pname="b"/>
 									</beam>
-									<note dots="0" dur="2" oct="3" pname="d"/>
+									<note dots="0" dur="2" oct="4" pname="c"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_2e6a9543-be73-4931-93bc-8b24812b45f2" label="4" n="4" xml:id="staff_7bafb196-6cb4-4e81-9762-9c51f063816b">
