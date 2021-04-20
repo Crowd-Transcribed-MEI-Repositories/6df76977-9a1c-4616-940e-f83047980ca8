@@ -1185,12 +1185,12 @@
 							</staff>
 							<staff facs="#zone_3283d71e-2b37-477e-9289-df7660e18b2d" label="3" n="3" xml:id="staff_c12464bc-f824-4d60-873f-6b5fc76b5a2e">
 								<layer>
-									<note dots="0" dur="4" oct="5" pname="f"/>
+									<note dots="0" dur="4" oct="3" pname="e"/>
 									<rest dots="0" dur="8"/>
 									<beam>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="4" pname="e"/>
+										<note dots="0" dur="8" oct="4" pname="g"/>
+										<note dots="0" dur="8" oct="4" pname="e"/>
 									</beam>
 								</layer>
 							</staff>
