@@ -502,7 +502,19 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_87bf6f1e-e653-477d-9bed-26dadb29849d" label="2" n="2" xml:id="staff_9290bd0a-6c06-4330-b895-3c7c5bf585de">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" oct="4" pname="b"/>
+									<rest dots="1" dur="8"/>
+									<note dots="0" dur="16" oct="4" pname="b"/>
+									<beam>
+										<note dots="1" dur="8" oct="4" pname="b"/>
+										<note dots="0" dur="16" oct="4" pname="b"/>
+									</beam>
+									<beam>
+										<note dots="1" dur="8" oct="4" pname="b"/>
+										<note dots="0" dur="16" oct="4" pname="b"/>
+									</beam>
+								</layer>
 							</staff>
 							<staff facs="#zone_d3a48325-cc2d-4fcc-805b-263098752b91" label="3" n="3" xml:id="staff_19e220d5-e282-4521-9179-2672477a0f29">
 								<layer/>
