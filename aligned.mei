@@ -550,16 +550,16 @@
 							<staff facs="#zone_11a28c5f-1f3b-4201-8112-9f9c5e14a5e6" label="4" n="4" xml:id="staff_4bbf029f-bec8-4acd-b98f-17f6532e004c">
 								<layer>
 									<beam>
-										<note dots="0" dur="8" oct="3" pname="d"/>
-										<note dots="0" dur="8" oct="3" pname="d"/>
-										<note dots="0" dur="8" oct="3" pname="d"/>
-										<note dots="0" dur="8" oct="3" pname="d"/>
+										<note dots="0" dur="8" oct="2" pname="a"/>
+										<note dots="0" dur="8" oct="2" pname="b"/>
+										<note accid="f" dots="0" dur="8" oct="3" pname="c"/>
+										<note dots="0" dur="8" oct="2" pname="b"/>
 									</beam>
 									<beam>
-										<note dots="0" dur="8" oct="3" pname="d"/>
-										<note dots="0" dur="8" oct="3" pname="d"/>
-										<note dots="0" dur="8" oct="3" pname="d"/>
-										<note dots="0" dur="8" oct="3" pname="d"/>
+										<note accid="n" dots="0" dur="8" oct="2" pname="a"/>
+										<note dots="0" dur="8" oct="2" pname="b"/>
+										<note accid="n" dots="0" dur="8" oct="3" pname="c"/>
+										<note dots="0" dur="8" oct="2" pname="a"/>
 									</beam>
 								</layer>
 							</staff>
