@@ -427,9 +427,9 @@
 								<layer>
 									<rest dots="0" dur="8"/>
 									<beam/>
-									<note dots="0" dur="8" oct="4" pname="b"/>
-									<note dots="0" dur="4" oct="4" pname="b"/>
-									<note dots="0" dur="8" oct="4" pname="b"/>
+									<note dots="0" dur="8" oct="5" pname="g"/>
+									<note dots="0" dur="4" oct="5" pname="g"/>
+									<note dots="0" dur="8" oct="5" pname="g"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_14064fcd-9033-4493-bcfc-ebc586405744" label="2" n="2" xml:id="staff_3fb0dfbd-a79e-414d-968b-21e168f0f6c0">
