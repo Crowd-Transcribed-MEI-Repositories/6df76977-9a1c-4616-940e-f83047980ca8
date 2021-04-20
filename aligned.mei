@@ -391,6 +391,7 @@
 						</measure>
 						<scoreDef>
 							<staffGrp>
+								<staffDef meter.count="3" meter.unit="4" n="4"/>
 								<staffDef meter.count="3" meter.unit="4" n="3"/>
 								<staffDef meter.count="3" meter.unit="4" n="2"/>
 								<staffDef meter.count="3" meter.unit="4" n="1"/>
