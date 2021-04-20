@@ -1242,12 +1242,12 @@
 							</staff>
 							<staff facs="#zone_12fad19e-5e90-44d8-be81-02da0c5ef326" label="2" n="2" xml:id="staff_f77eb379-637f-45b7-b559-a1d65dbe6499">
 								<layer>
-									<note dots="0" dur="4" oct="5" pname="f"/>
+									<note dots="0" dur="4" oct="5" pname="c"/>
 									<rest dots="0" dur="8"/>
 									<beam>
+										<note dots="0" dur="8" oct="5" pname="c"/>
 										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="c"/>
 									</beam>
 								</layer>
 							</staff>
