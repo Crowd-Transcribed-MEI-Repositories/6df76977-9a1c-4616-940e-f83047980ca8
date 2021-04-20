@@ -681,10 +681,10 @@
 								<layer>
 									<rest dots="0" dur="4"/>
 									<rest dots="0" dur="8"/>
-									<note dots="0" dur="8" oct="5" pname="f"/>
-									<note dots="0" dur="4" oct="5" pname="f"/>
+									<note dots="0" dur="8" oct="4" pname="e"/>
+									<note dots="0" dur="4" oct="4" pname="d"/>
 									<rest dots="0" dur="8"/>
-									<note dots="0" dur="8" oct="5" pname="f"/>
+									<note dots="0" dur="8" oct="4" pname="c"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_165aea1b-eb71-4562-b822-b1340ed637dc" label="4" n="4" xml:id="staff_6a407924-d0b0-43bd-98fd-68757e5a6cde">
