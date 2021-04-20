@@ -615,7 +615,9 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_30cb7fce-2e1e-4951-8497-fdf23ef53ee4" label="2" n="2" xml:id="staff_e61853df-eb34-45ab-bc46-aea76f6bdff1">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="1"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_472785c0-66f1-4e06-9b11-de8c8c3397e9" label="3" n="3" xml:id="staff_63a723e5-59e4-4a80-b517-a2d7c9686c58">
 								<layer/>
