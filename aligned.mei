@@ -1097,8 +1097,8 @@
 							</staff>
 							<staff facs="#zone_ba64229d-f6a4-4b7d-8063-f90de1081eb8" label="2" n="2" xml:id="staff_e1337483-350b-49ef-ba24-652b0b0f5b93">
 								<layer>
-									<note dots="0" dur="2" oct="5" pname="f"/>
-									<note dots="0" dur="4" oct="5" pname="f"/>
+									<note dots="0" dur="2" oct="4" pname="c"/>
+									<note dots="0" dur="4" oct="4" pname="a"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_363e9a95-3ba4-4e23-ae44-5409ddf9ca52" label="3" n="3" xml:id="staff_d995bc37-949c-47d6-8bd9-63440596034c">
