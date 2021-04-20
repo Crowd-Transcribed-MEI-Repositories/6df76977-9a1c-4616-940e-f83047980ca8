@@ -248,7 +248,14 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_0b24f6df-438e-41a1-9400-abe411fbc5d9" label="4" n="4" xml:id="staff_71079705-11f4-4570-b5b2-20a55bef99f6">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" oct="3" pname="d"/>
+									<beam>
+										<note dots="1" dur="8" oct="3" pname="d"/>
+										<note dots="0" dur="16" oct="3" pname="d"/>
+									</beam>
+									<note dots="0" dur="2" oct="3" pname="d"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_aa073518-30a0-4b99-82fe-5ad96eb122fa" label="5" n="5" xml:id="staff_952ca9be-14a9-453c-b4d4-5c445ac8853b">
 								<layer/>
