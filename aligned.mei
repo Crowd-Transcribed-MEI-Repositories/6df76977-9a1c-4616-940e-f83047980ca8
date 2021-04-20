@@ -817,7 +817,19 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_09e01bbc-3168-4667-809f-2e15da8dfe04" label="6" n="6" xml:id="staff_638bbbe9-11bd-4215-805e-b95d6191a471">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" oct="4" pname="b"/>
+									<rest dots="1" dur="8"/>
+									<note dots="0" dur="16" oct="4" pname="b"/>
+									<beam>
+										<note dots="1" dur="8" oct="4" pname="b"/>
+										<note dots="0" dur="16" oct="4" pname="b"/>
+									</beam>
+									<beam>
+										<note dots="1" dur="8" oct="4" pname="b"/>
+										<note dots="0" dur="16" oct="4" pname="b"/>
+									</beam>
+								</layer>
 							</staff>
 						</measure>
 						<measure label="10" n="10" xml:id="measure_df0fdaf0-97fa-42ab-9b87-8dc39f27b1d5">
