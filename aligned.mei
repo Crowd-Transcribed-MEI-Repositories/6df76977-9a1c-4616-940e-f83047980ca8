@@ -1068,7 +1068,7 @@
 							</staff>
 							<staff facs="#zone_6c679a01-319c-43bd-82b8-db8538d24480" label="3" n="3" xml:id="staff_130ea002-3162-4fe8-813e-a71466fee4aa">
 								<layer>
-									<note dots="1" dur="2" oct="5" pname="f"/>
+									<note dots="1" dur="2" oct="3" pname="a"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_aa05f7d4-e69b-43a9-bc23-ea07a2d74602" label="4" n="4" xml:id="staff_22a708fe-b195-40f9-9aac-6d7a31b13d89">
