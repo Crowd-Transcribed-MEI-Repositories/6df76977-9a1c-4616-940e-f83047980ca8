@@ -320,6 +320,7 @@
 						</measure>
 						<scoreDef>
 							<staffGrp>
+								<staffDef key.sig="3f" n="4"/>
 								<staffDef key.sig="3f" n="3"/>
 								<staffDef key.sig="1f" n="2"/>
 								<staffDef key.sig="1f" n="1"/>
