@@ -763,16 +763,16 @@
 							</staff>
 							<staff facs="#zone_d3a48325-cc2d-4fcc-805b-263098752b91" label="3" n="3" xml:id="staff_19e220d5-e282-4521-9179-2672477a0f29">
 								<layer>
-									<note dots="0" dur="4" oct="3" pname="d"/>
+									<note dots="0" dur="4" oct="3" pname="b"/>
 									<rest dots="1" dur="8"/>
-									<note dots="0" dur="16" oct="3" pname="d"/>
+									<note dots="0" dur="16" oct="3" pname="b"/>
 									<beam>
-										<note dots="1" dur="8" oct="3" pname="d"/>
-										<note dots="0" dur="16" oct="3" pname="d"/>
+										<note dots="1" dur="8" oct="3" pname="b"/>
+										<note dots="0" dur="16" oct="3" pname="b"/>
 									</beam>
 									<beam>
-										<note dots="1" dur="8" oct="3" pname="d"/>
-										<note dots="0" dur="16" oct="3" pname="d"/>
+										<note dots="1" dur="8" oct="3" pname="b"/>
+										<note dots="0" dur="16" oct="4" pname="d"/>
 									</beam>
 								</layer>
 							</staff>
