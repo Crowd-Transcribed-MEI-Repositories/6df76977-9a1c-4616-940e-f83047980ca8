@@ -501,7 +501,11 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_e7d96ee2-a2e4-4a75-8f72-f78d8cf7e981" label="4" n="4" xml:id="staff_a437a736-8e7e-49f2-b3c7-ed3b07fb4b50">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" oct="3" pname="d"/>
+									<rest dots="0" dur="4"/>
+									<rest dots="0" dur="2"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_e4b67bab-e2bd-4834-bec6-9ca6cbb4995c" label="5" n="5" xml:id="staff_5db4b57d-049d-428a-b79c-428ab30ee809">
 								<layer/>
