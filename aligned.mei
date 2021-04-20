@@ -1167,11 +1167,11 @@
 						<measure label="19" n="19" xml:id="measure_6e933417-dc43-4258-b2f3-5a7897e8a303">
 							<staff facs="#zone_d5f01666-705c-4a9f-99a2-3810edd3668d" label="1" n="1" xml:id="staff_d92e7e5f-2915-454a-affc-22ab8541a52a">
 								<layer>
-									<note dots="0" dur="4" oct="5" pname="f"/>
+									<note dots="0" dur="4" oct="4" pname="a"/>
 									<rest dots="0" dur="8"/>
 									<beam>
 										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="a"/>
 										<note dots="0" dur="8" oct="5" pname="f"/>
 									</beam>
 								</layer>
