@@ -336,7 +336,9 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_c6aba997-26df-41bd-bc48-a886ca71c3d9" label="6" n="6" xml:id="staff_4c4b3502-b1da-4ac9-9547-9a37da0f0f0f">
-								<layer/>
+								<layer>
+									<clef line="2" shape="G"/>
+								</layer>
 							</staff>
 						</measure>
 						<measure label="9" n="9" xml:id="measure_e0ff8d85-bf1e-462e-9b1e-a0a292217eef">
