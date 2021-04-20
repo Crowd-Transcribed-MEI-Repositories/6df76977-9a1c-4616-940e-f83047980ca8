@@ -385,15 +385,15 @@
 								<layer>
 									<rest dots="0" dur="8"/>
 									<beam>
-										<note dots="0" dur="8" oct="3" pname="d"/>
-										<note dots="0" dur="8" oct="3" pname="d"/>
-										<note dots="0" dur="8" oct="3" pname="d"/>
+										<note dots="0" dur="8" oct="4" pname="d"/>
+										<note dots="0" dur="8" oct="4" pname="e"/>
+										<note dots="0" dur="8" oct="4" pname="f"/>
 									</beam>
 									<beam>
-										<note dots="1" dur="8" oct="3" pname="d"/>
-										<note dots="0" dur="16" oct="3" pname="d"/>
+										<note dots="1" dur="8" oct="4" pname="f"/>
+										<note dots="0" dur="16" oct="4" pname="g"/>
 									</beam>
-									<note dots="0" dur="4" oct="3" pname="d"/>
+									<note dots="0" dur="4" oct="4" pname="g"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_367bc024-c7ec-4d76-b5ca-642d0a77122c" label="4" n="4" xml:id="staff_ba2fa9bb-a5dd-4721-9e71-a637caee82d7">
