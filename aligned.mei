@@ -155,6 +155,11 @@
 						</staffGrp>
 					</scoreDef>
 					<section>
+						<scoreDef>
+							<staffGrp>
+								<staffDef meter.sym="common" n="1"/>
+							</staffGrp>
+						</scoreDef>
 						<pb/>
 						<measure label="1" n="1" xml:id="measure_860a4ac7-66a3-4057-83a8-d429e750f132">
 							<staff facs="#zone_d841c0b2-44e8-4b62-9dcc-2a224c726c7b" label="1" n="1" xml:id="staff_4466c753-b0ab-41b5-b81d-9da0645ce836">
