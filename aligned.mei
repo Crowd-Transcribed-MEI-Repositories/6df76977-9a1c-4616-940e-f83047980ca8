@@ -813,7 +813,15 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_12fad19e-5e90-44d8-be81-02da0c5ef326" label="2" n="2" xml:id="staff_f77eb379-637f-45b7-b559-a1d65dbe6499">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" oct="5" pname="f"/>
+									<rest dots="0" dur="8"/>
+									<beam>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+									</beam>
+								</layer>
 							</staff>
 							<staff facs="#zone_fe88cdfe-7ae7-41d2-995e-e56da7eee7b1" label="3" n="3" xml:id="staff_6c447af6-3135-4e6c-836a-6d79cfbb617a">
 								<layer/>
