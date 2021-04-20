@@ -526,7 +526,15 @@
 						</measure>
 						<measure label="13" n="13" xml:id="measure_8ac4700b-855d-4baf-912a-d671b4b40e6c">
 							<staff facs="#zone_7322ed0e-5360-4f77-b126-2346ed0ca75d" label="1" n="1" xml:id="staff_769f22ec-f8ea-4dee-ab14-200da37415b1">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" oct="5" pname="f"/>
+									<rest dots="0" dur="8"/>
+									<beam>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+									</beam>
+								</layer>
 							</staff>
 							<staff facs="#zone_30cb7fce-2e1e-4951-8497-fdf23ef53ee4" label="2" n="2" xml:id="staff_e61853df-eb34-45ab-bc46-aea76f6bdff1">
 								<layer/>
