@@ -171,10 +171,10 @@
 								<layer>
 									<note dots="0" dur="4" oct="5" pname="f"/>
 									<beam>
-										<note dots="1" dur="8" oct="5" pname="f"/>
+										<note dots="1" dur="8" oct="5" pname="c"/>
 										<note dots="0" dur="16" oct="5" pname="f"/>
 									</beam>
-									<note dots="0" dur="2" oct="5" pname="f"/>
+									<note dots="0" dur="2" oct="5" pname="a"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_a28f80a4-7f5b-4fee-b1da-cef9d850375e" label="2" n="2" xml:id="staff_02c65435-3422-4df7-b124-206b4d01b96d">
