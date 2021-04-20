@@ -387,7 +387,14 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_824e3be1-9f45-4489-b631-97e6599f1d93" label="2" n="2" xml:id="staff_8bd6a27f-7ea1-4a24-af5b-310ed339c41e">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" oct="4" pname="b"/>
+									<rest dots="0" dur="8"/>
+									<note dots="0" dur="8" oct="4" pname="b"/>
+									<note dots="0" dur="4" oct="4" pname="b"/>
+									<rest dots="0" dur="8"/>
+									<note dots="0" dur="8" oct="4" pname="b"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_40624d1e-e8c6-4650-9e7d-56a6a226433c" label="3" n="3" xml:id="staff_4de6511d-03eb-48c1-8448-357645ce13fd">
 								<layer/>
