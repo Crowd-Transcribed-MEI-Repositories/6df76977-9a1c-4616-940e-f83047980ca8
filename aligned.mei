@@ -1090,9 +1090,9 @@
 						<measure label="17" n="17" xml:id="measure_5e7f2e47-e68f-4df3-a85c-aa5a44b1e98c">
 							<staff facs="#zone_9bca37de-7c97-441a-9cc4-bb156cf6d637" label="1" n="1" xml:id="staff_03458a00-9125-42e0-a9ff-e5a739a08197">
 								<layer>
-									<note dots="0" dur="4" oct="5" pname="f"/>
-									<note dots="0" dur="4" oct="5" pname="f"/>
-									<note dots="0" dur="4" oct="5" pname="f"/>
+									<note dots="0" dur="4" oct="4" pname="f"/>
+									<note dots="0" dur="4" oct="4" pname="a"/>
+									<note dots="0" dur="4" oct="5" pname="c"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_ba64229d-f6a4-4b7d-8063-f90de1081eb8" label="2" n="2" xml:id="staff_e1337483-350b-49ef-ba24-652b0b0f5b93">
