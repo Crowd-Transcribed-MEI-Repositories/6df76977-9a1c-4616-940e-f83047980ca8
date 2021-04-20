@@ -615,7 +615,11 @@
 						</measure>
 						<measure label="16" n="16" xml:id="measure_8adca5b8-23ad-42a2-8cc6-06e01f9c5425">
 							<staff facs="#zone_7929c46e-4a33-4114-89dd-72d1df2b8070" label="1" n="1" xml:id="staff_2ffd3328-65c2-4be0-bd6f-08123767513e">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" oct="5" pname="f"/>
+									<note dots="0" dur="4" oct="5" pname="f"/>
+									<note dots="0" dur="4" oct="5" pname="f"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_a0a8f396-9b83-49f0-be40-85e101fb7e8f" label="2" n="2" xml:id="staff_870dafa2-1580-4d8d-bf3f-c021265cf084">
 								<layer/>
