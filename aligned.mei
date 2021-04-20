@@ -840,7 +840,7 @@
 							</staff>
 							<staff facs="#zone_641def2b-0d44-4d00-b7ea-add769a97dbb" label="4" n="4" xml:id="staff_fb5dfb91-09b1-4a82-85b1-703f75b42144">
 								<layer>
-									<note dots="0" dur="2" oct="3" pname="d"/>
+									<note dots="0" dur="2" oct="1" pname="b"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_b9909aef-2730-4fdd-8a37-60128385b049" label="5" n="5" xml:id="staff_9d018250-def7-413f-805c-8d7c4e2417d6">
