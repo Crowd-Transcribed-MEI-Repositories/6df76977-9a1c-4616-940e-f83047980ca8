@@ -520,14 +520,14 @@
 							</staff>
 							<staff facs="#zone_45ccd11d-f1fa-4986-90d0-4a72452f36cd" label="2" n="2" xml:id="staff_32331179-7012-41e6-9b4a-32b499768a7a">
 								<layer>
-									<note dots="0" dur="8" oct="4" pname="b"/>
-									<note dots="0" dur="4" oct="4" pname="b"/>
-									<note dots="0" dur="8" oct="4" pname="b"/>
+									<note dots="0" dur="8" oct="5" pname="f"/>
+									<note dots="0" dur="4" oct="5" pname="f"/>
+									<note dots="0" dur="8" oct="5" pname="f"/>
 									<beam>
-										<note dots="0" dur="8" oct="4" pname="b"/>
-										<note dots="0" dur="8" oct="4" pname="b"/>
-										<note dots="0" dur="8" oct="4" pname="b"/>
-										<note dots="0" dur="8" oct="4" pname="b"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
 									</beam>
 								</layer>
 							</staff>
