@@ -733,16 +733,16 @@
 						<measure label="9" n="9" xml:id="measure_e0ff8d85-bf1e-462e-9b1e-a0a292217eef">
 							<staff facs="#zone_7b4e87d6-6436-4a39-9d1f-c8d97ec07cdf" label="1" n="1" xml:id="staff_3bcba60d-4162-4d58-8497-d7cc7d462710">
 								<layer>
-									<note dots="0" dur="4" oct="4" pname="b"/>
+									<note dots="0" dur="4" oct="6" pname="c"/>
 									<rest dots="1" dur="8"/>
-									<note dots="0" dur="16" oct="4" pname="b"/>
+									<note dots="0" dur="16" oct="5" pname="c"/>
 									<beam>
-										<note dots="1" dur="8" oct="4" pname="b"/>
-										<note dots="0" dur="16" oct="4" pname="b"/>
+										<note dots="1" dur="8" oct="5" pname="c"/>
+										<note dots="0" dur="16" oct="5" pname="e"/>
 									</beam>
 									<beam>
-										<note dots="1" dur="8" oct="4" pname="b"/>
-										<note dots="0" dur="16" oct="4" pname="b"/>
+										<note dots="1" dur="8" oct="5" pname="e"/>
+										<note dots="0" dur="16" oct="5" pname="g"/>
 									</beam>
 								</layer>
 							</staff>
