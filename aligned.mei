@@ -850,7 +850,7 @@
 							</staff>
 							<staff facs="#zone_0705e94a-a2f0-4311-8dd0-29c34a535f74" label="6" n="6" xml:id="staff_5770e486-ab5d-4020-b53f-471ba5d51cde">
 								<layer>
-									<note dots="0" dur="2" oct="4" pname="b"/>
+									<note dots="0" dur="2" oct="4" pname="g"/>
 								</layer>
 							</staff>
 						</measure>
