@@ -1026,8 +1026,8 @@
 							<staff facs="#zone_eb43c997-b6ba-4a30-ae6f-a117fe706626" label="2" n="2" xml:id="staff_9ce275df-64b9-48c0-852c-756435577aea">
 								<layer>
 									<rest dots="0" dur="4"/>
-									<note dots="0" dur="4" oct="5" pname="f"/>
-									<note dots="0" dur="4" oct="5" pname="f"/>
+									<note dots="0" dur="4" oct="4" pname="c"/>
+									<note dots="0" dur="4" oct="4" pname="c"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_cd6ad50b-07a6-4264-8b59-67343894d90f" label="3" n="3" xml:id="staff_d7997b90-eb0f-435d-967e-2269aa38567c">
