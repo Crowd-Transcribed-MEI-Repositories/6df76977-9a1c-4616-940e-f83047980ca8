@@ -1207,12 +1207,12 @@
 							</staff>
 							<staff facs="#zone_5992a2cc-589b-40e2-a8e3-0a9a5016ea37" label="5" n="5" xml:id="staff_dfab6cb9-f38c-4742-bd46-7e3410b8f343">
 								<layer>
-									<note dots="0" dur="4" oct="5" pname="f"/>
+									<note dots="0" dur="4" oct="4" pname="g"/>
 									<rest dots="0" dur="8"/>
 									<beam>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="c"/>
+										<note dots="0" dur="8" oct="5" pname="e"/>
+										<note dots="0" dur="8" oct="5" pname="c"/>
 									</beam>
 								</layer>
 							</staff>
