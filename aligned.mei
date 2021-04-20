@@ -780,14 +780,14 @@
 								<layer>
 									<note dots="0" dur="4" oct="3" pname="d"/>
 									<rest dots="1" dur="8"/>
-									<note dots="0" dur="16" oct="3" pname="d"/>
+									<note dots="0" dur="16" oct="1" pname="b"/>
 									<beam>
-										<note dots="1" dur="8" oct="3" pname="d"/>
-										<note dots="0" dur="16" oct="3" pname="d"/>
+										<note dots="1" dur="8" oct="1" pname="b"/>
+										<note dots="0" dur="16" oct="1" pname="b"/>
 									</beam>
 									<beam>
-										<note dots="1" dur="8" oct="3" pname="d"/>
-										<note dots="0" dur="16" oct="3" pname="d"/>
+										<note dots="1" dur="8" oct="1" pname="b"/>
+										<note dots="0" dur="16" oct="1" pname="b"/>
 									</beam>
 								</layer>
 							</staff>
