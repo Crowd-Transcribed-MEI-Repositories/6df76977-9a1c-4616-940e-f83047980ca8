@@ -299,7 +299,9 @@
 						<sb/>
 						<measure label="8" n="8" xml:id="measure_8356b506-bb50-4e97-9ff7-6ba925daf6f3">
 							<staff facs="#zone_8f4ee40a-a3b2-4cac-bd08-e4f0ddf7b3d6" label="1" n="1" xml:id="staff_bf6b7525-c2d1-41f8-ad3d-78a1f76e31f5">
-								<layer/>
+								<layer>
+									<clef line="2" shape="G"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_c9cf8251-9c0f-4e2a-a159-1c5128ab491c" label="2" n="2" xml:id="staff_7647a388-47a4-4e28-8646-dc8302706b60">
 								<layer/>
