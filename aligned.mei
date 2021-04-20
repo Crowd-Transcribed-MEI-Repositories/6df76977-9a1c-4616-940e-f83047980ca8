@@ -306,7 +306,9 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_c9cf8251-9c0f-4e2a-a159-1c5128ab491c" label="2" n="2" xml:id="staff_7647a388-47a4-4e28-8646-dc8302706b60">
-								<layer/>
+								<layer>
+									<clef line="2" shape="G"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_44b561d4-2e11-496c-acb7-5732f4927c8d" label="3" n="3" xml:id="staff_3c48153d-eccd-4978-a853-909ef720303c">
 								<layer/>
