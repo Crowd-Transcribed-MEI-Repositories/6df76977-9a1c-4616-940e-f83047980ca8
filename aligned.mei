@@ -281,12 +281,12 @@
 							</staff>
 							<staff facs="#zone_0a9c1e67-ea0a-4a30-8123-09a16ef8e568" label="6" n="6" xml:id="staff_7048ac66-f032-44eb-8069-de6e9a968206">
 								<layer>
-									<note dots="0" dur="4" oct="4" pname="b"/>
+									<note dots="0" dur="4" oct="4" pname="e"/>
 									<beam>
-										<note dots="1" dur="8" oct="4" pname="b"/>
-										<note dots="0" dur="16" oct="4" pname="b"/>
+										<note dots="1" dur="8" oct="4" pname="c"/>
+										<note dots="0" dur="16" oct="4" pname="e"/>
 									</beam>
-									<note dots="0" dur="2" oct="4" pname="b"/>
+									<note dots="0" dur="2" oct="4" pname="g"/>
 								</layer>
 							</staff>
 						</measure>
