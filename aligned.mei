@@ -387,7 +387,9 @@
 						</measure>
 						<measure label="10" n="10" xml:id="measure_df0fdaf0-97fa-42ab-9b87-8dc39f27b1d5">
 							<staff facs="#zone_b9ca2b0a-c082-4a9d-aa05-d7a8f727ce9e" label="1" n="1" xml:id="staff_38e478c3-0ce3-4ae5-8b11-989106507003">
-								<layer/>
+								<layer>
+									<note dots="0" dur="2" oct="4" pname="b"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_d42807ab-e4a0-490d-9945-552fce04b1c4" label="2" n="2" xml:id="staff_8415c095-fda2-4528-9a20-628abb286654">
 								<layer/>
