@@ -1063,7 +1063,9 @@
 								<layer/>
 							</staff>
 							<staff facs="#zone_5e9a698a-774b-427a-9b23-bedc68cd0a8a" label="6" n="6" xml:id="staff_9132e518-520d-4b76-a230-c7089eebb0b3">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="1"/>
+								</layer>
 							</staff>
 						</measure>
 						<measure label="17" n="17" xml:id="measure_5e7f2e47-e68f-4df3-a85c-aa5a44b1e98c">
