@@ -960,7 +960,15 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_fe88cdfe-7ae7-41d2-995e-e56da7eee7b1" label="3" n="3" xml:id="staff_6c447af6-3135-4e6c-836a-6d79cfbb617a">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" oct="5" pname="f"/>
+									<rest dots="0" dur="8"/>
+									<beam>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+									</beam>
+								</layer>
 							</staff>
 							<staff facs="#zone_b3e4a85f-e7c3-41c3-9ded-7da05065cebf" label="4" n="4" xml:id="staff_19551389-3a8d-44dc-9140-c342a8773da0">
 								<layer/>
