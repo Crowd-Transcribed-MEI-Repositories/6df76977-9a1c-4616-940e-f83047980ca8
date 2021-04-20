@@ -157,19 +157,18 @@
 					<section>
 						<scoreDef>
 							<staffGrp>
-								<staffDef meter.sym="common" n="6"/>
-								<staffDef meter.sym="common" n="5"/>
-								<staffDef key.sig="3f" meter.sym="common" n="4"/>
-								<staffDef key.sig="3f" meter.sym="common" n="3"/>
-								<staffDef key.sig="1f" meter.sym="common" n="2"/>
-								<staffDef key.sig="1f" meter.sym="common" n="1"/>
+								<staffDef clef.line="2" clef.shape="G" meter.sym="common" n="6"/>
+								<staffDef clef.line="2" clef.shape="G" meter.sym="common" n="5"/>
+								<staffDef clef.line="4" clef.shape="F" key.sig="3f" meter.sym="common" n="4"/>
+								<staffDef clef.line="4" clef.shape="F" key.sig="3f" meter.sym="common" n="3"/>
+								<staffDef clef.line="2" clef.shape="G" key.sig="1f" meter.sym="common" n="2"/>
+								<staffDef clef.line="2" clef.shape="G" key.sig="1f" meter.sym="common" n="1"/>
 							</staffGrp>
 						</scoreDef>
 						<pb/>
 						<measure label="1" n="1" xml:id="measure_860a4ac7-66a3-4057-83a8-d429e750f132">
 							<staff facs="#zone_d841c0b2-44e8-4b62-9dcc-2a224c726c7b" label="1" n="1" xml:id="staff_4466c753-b0ab-41b5-b81d-9da0645ce836">
 								<layer>
-									<clef line="2" shape="G"/>
 									<note dots="0" dur="4" oct="5" pname="f"/>
 									<beam>
 										<note dots="1" dur="8" oct="5" pname="f"/>
@@ -180,7 +179,6 @@
 							</staff>
 							<staff facs="#zone_a28f80a4-7f5b-4fee-b1da-cef9d850375e" label="2" n="2" xml:id="staff_02c65435-3422-4df7-b124-206b4d01b96d">
 								<layer>
-									<clef line="2" shape="G"/>
 									<note dots="0" dur="4" oct="5" pname="f"/>
 									<beam>
 										<note dots="1" dur="8" oct="5" pname="f"/>
@@ -191,7 +189,6 @@
 							</staff>
 							<staff facs="#zone_896c3ac9-0e29-4fe3-a67c-f4d1218f48a3" label="3" n="3" xml:id="staff_b47cbb04-5c06-4f6d-8d88-870bc5ff1589">
 								<layer>
-									<clef line="4" shape="F"/>
 									<note dots="0" dur="4" oct="5" pname="f"/>
 									<beam>
 										<note dots="1" dur="8" oct="5" pname="f"/>
@@ -202,7 +199,6 @@
 							</staff>
 							<staff facs="#zone_d5b9cbc3-8430-4adf-9f98-d81b07d3d958" label="4" n="4" xml:id="staff_c3e9992a-2ad9-45cc-b723-e648db44f0b7">
 								<layer>
-									<clef line="4" shape="F"/>
 									<note dots="0" dur="4" oct="5" pname="f"/>
 									<beam>
 										<note dots="1" dur="8" oct="5" pname="f"/>
@@ -213,7 +209,6 @@
 							</staff>
 							<staff facs="#zone_69ba9316-a554-41ec-99bc-2f352a9b818a" label="5" n="5" xml:id="staff_0a6bb3af-2345-481b-bdcf-2812983367e0">
 								<layer>
-									<clef line="2" shape="G"/>
 									<note dots="0" dur="4" oct="5" pname="f"/>
 									<beam>
 										<note dots="1" dur="8" oct="5" pname="f"/>
@@ -224,7 +219,6 @@
 							</staff>
 							<staff facs="#zone_baa26e4b-f930-4f20-b3f2-ba1373a7a1a6" label="6" n="6" xml:id="staff_0477b40e-cdb5-4bc0-a075-6fa3699c8974">
 								<layer>
-									<clef line="2" shape="G"/>
 									<note dots="0" dur="4" oct="5" pname="f"/>
 									<beam>
 										<note dots="1" dur="8" oct="5" pname="f"/>
@@ -653,17 +647,18 @@
 						</measure>
 						<scoreDef>
 							<staffGrp>
-								<staffDef key.sig="3f" n="4"/>
-								<staffDef key.sig="3f" n="3"/>
-								<staffDef key.sig="1f" n="2"/>
-								<staffDef key.sig="1f" n="1"/>
+								<staffDef clef.line="4" clef.shape="F" key.sig="3f" n="4"/>
+								<staffDef clef.line="4" clef.shape="F" key.sig="3f" n="3"/>
+								<staffDef clef.line="2" clef.shape="G" key.sig="1f" n="2"/>
+								<staffDef clef.line="2" clef.shape="G" key.sig="1f" n="1"/>
+								<staffDef clef.line="2" clef.shape="G" n="5"/>
+								<staffDef clef.line="2" clef.shape="G" n="6"/>
 							</staffGrp>
 						</scoreDef>
 						<sb/>
 						<measure label="8" n="8" xml:id="measure_8356b506-bb50-4e97-9ff7-6ba925daf6f3">
 							<staff facs="#zone_8f4ee40a-a3b2-4cac-bd08-e4f0ddf7b3d6" label="1" n="1" xml:id="staff_bf6b7525-c2d1-41f8-ad3d-78a1f76e31f5">
 								<layer>
-									<clef line="2" shape="G"/>
 									<note dots="0" dur="4" oct="5" pname="f"/>
 									<rest dots="0" dur="8"/>
 									<note dots="0" dur="8" oct="5" pname="f"/>
@@ -674,7 +669,6 @@
 							</staff>
 							<staff facs="#zone_c9cf8251-9c0f-4e2a-a159-1c5128ab491c" label="2" n="2" xml:id="staff_7647a388-47a4-4e28-8646-dc8302706b60">
 								<layer>
-									<clef line="2" shape="G"/>
 									<note dots="0" dur="4" oct="5" pname="f"/>
 									<rest dots="0" dur="8"/>
 									<note dots="0" dur="8" oct="5" pname="f"/>
@@ -685,7 +679,6 @@
 							</staff>
 							<staff facs="#zone_44b561d4-2e11-496c-acb7-5732f4927c8d" label="3" n="3" xml:id="staff_3c48153d-eccd-4978-a853-909ef720303c">
 								<layer>
-									<clef line="4" shape="F"/>
 									<rest dots="0" dur="4"/>
 									<rest dots="0" dur="8"/>
 									<note dots="0" dur="8" oct="5" pname="f"/>
@@ -696,7 +689,6 @@
 							</staff>
 							<staff facs="#zone_165aea1b-eb71-4562-b822-b1340ed637dc" label="4" n="4" xml:id="staff_6a407924-d0b0-43bd-98fd-68757e5a6cde">
 								<layer>
-									<clef line="4" shape="F"/>
 									<rest dots="0" dur="4"/>
 									<rest dots="0" dur="8"/>
 									<note dots="0" dur="8" oct="5" pname="f"/>
@@ -707,7 +699,6 @@
 							</staff>
 							<staff facs="#zone_b473ea71-725b-4b9f-80f8-a24f23f2103b" label="5" n="5" xml:id="staff_c855184a-5fad-49e6-b668-6150cad0512b">
 								<layer>
-									<clef line="2" shape="G"/>
 									<rest dots="0" dur="8"/>
 									<beam>
 										<note dots="0" dur="8" oct="5" pname="f"/>
@@ -724,7 +715,6 @@
 							</staff>
 							<staff facs="#zone_c6aba997-26df-41bd-bc48-a886ca71c3d9" label="6" n="6" xml:id="staff_4c4b3502-b1da-4ac9-9547-9a37da0f0f0f">
 								<layer>
-									<clef line="2" shape="G"/>
 									<rest dots="0" dur="8"/>
 									<beam>
 										<note dots="0" dur="8" oct="5" pname="f"/>
