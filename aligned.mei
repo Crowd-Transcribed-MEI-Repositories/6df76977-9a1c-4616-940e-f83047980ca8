@@ -1139,9 +1139,9 @@
 							</staff>
 							<staff facs="#zone_d42d0ddd-262d-41cd-b614-9ea8e55054a1" label="3" n="3" xml:id="staff_d70df25c-5965-4b1a-8fc6-7b80743e4383">
 								<layer>
-									<note dots="0" dur="4" oct="5" pname="f"/>
-									<note dots="0" dur="4" oct="5" pname="f"/>
-									<note dots="0" dur="4" oct="5" pname="f"/>
+									<note dots="0" dur="4" oct="3" pname="d"/>
+									<note dots="0" dur="4" oct="2" pname="b"/>
+									<note dots="0" dur="4" oct="3" pname="d"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_f7775533-1579-4e7a-bc44-b7fc7704f4dc" label="4" n="4" xml:id="staff_66d51e6c-8c8d-4507-9748-eae09f92269a">
