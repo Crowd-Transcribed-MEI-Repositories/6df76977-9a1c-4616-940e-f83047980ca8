@@ -554,7 +554,11 @@
 						</measure>
 						<measure label="14" n="14" xml:id="measure_358d6f58-4c26-4238-a995-1be84e6e0633">
 							<staff facs="#zone_bb4f17a7-5572-4202-8682-483efe2dccc6" label="1" n="1" xml:id="staff_6a21525c-9f5a-45d6-8b8c-9504fa81d78d">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" oct="5" pname="f"/>
+									<rest dots="0" dur="4"/>
+									<rest dots="0" dur="4"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_e7731eab-13a0-4d46-ac74-e1c13a21b383" label="2" n="2" xml:id="staff_5e25b43d-5468-4ed2-8e0d-73144842b2c1">
 								<layer/>
