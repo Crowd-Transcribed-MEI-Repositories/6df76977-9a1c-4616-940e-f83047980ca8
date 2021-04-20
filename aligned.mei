@@ -1199,9 +1199,9 @@
 									<rest dots="0" dur="4"/>
 									<rest dots="0" dur="8"/>
 									<beam>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="3" pname="e"/>
+										<note dots="0" dur="8" oct="3" pname="g"/>
+										<note dots="0" dur="8" oct="3" pname="e"/>
 									</beam>
 								</layer>
 							</staff>
