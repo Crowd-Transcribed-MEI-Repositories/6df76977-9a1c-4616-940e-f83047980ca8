@@ -638,7 +638,10 @@
 						</measure>
 						<measure label="18" n="18" xml:id="measure_ff441ceb-3a61-4c48-9c24-ec4836476fcb">
 							<staff facs="#zone_33a92105-95bc-4469-b8f9-5f4d10edd140" label="1" n="1" xml:id="staff_656c5dd9-ff30-4d7d-8bab-75d1c0184597">
-								<layer/>
+								<layer>
+									<note dots="0" dur="2" oct="5" pname="f"/>
+									<note dots="0" dur="4" oct="5" pname="f"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_04c64a9a-8e49-48d3-9f61-3dccc73ee5b1" label="2" n="2" xml:id="staff_0ec3cd0a-2bbb-4593-b499-7ca82bc4813b">
 								<layer/>
