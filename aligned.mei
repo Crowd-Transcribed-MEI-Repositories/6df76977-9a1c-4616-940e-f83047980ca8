@@ -889,7 +889,10 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_e8e096aa-eb95-4d35-a62d-353d0ef9a43e" label="6" n="6" xml:id="staff_2e05dcca-b48a-4250-a047-52e02652a0ed">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="8"/>
+									<rest dots="0" dur="4"/>
+								</layer>
 							</staff>
 						</measure>
 						<measure label="12" n="12" xml:id="measure_7ca8ad4e-5a03-407c-b610-a233f83b0a06">
