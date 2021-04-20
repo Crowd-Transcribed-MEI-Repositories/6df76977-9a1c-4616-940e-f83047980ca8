@@ -251,12 +251,12 @@
 							</staff>
 							<staff facs="#zone_63dd20cc-4b70-4c2e-937a-30351b0a1c1b" label="3" n="3" xml:id="staff_5fc73b3b-41fc-40c7-a043-76d9cc62ee10">
 								<layer>
-									<note dots="0" dur="4" oct="3" pname="d"/>
+									<note dots="0" dur="4" oct="3" pname="g"/>
 									<beam>
-										<note dots="1" dur="8" oct="3" pname="d"/>
-										<note dots="0" dur="16" oct="3" pname="d"/>
+										<note dots="1" dur="8" oct="3" pname="e"/>
+										<note dots="0" dur="16" oct="3" pname="g"/>
 									</beam>
-									<note dots="0" dur="2" oct="3" pname="d"/>
+									<note dots="0" dur="2" oct="3" pname="b"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_0b24f6df-438e-41a1-9400-abe411fbc5d9" label="4" n="4" xml:id="staff_71079705-11f4-4570-b5b2-20a55bef99f6">
