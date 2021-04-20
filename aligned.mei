@@ -1285,7 +1285,15 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_b5e69385-8083-4851-be11-ac53669b0f97" label="6" n="6" xml:id="staff_9f029dff-4a53-431e-b551-54387bef81d8">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" oct="5" pname="f"/>
+									<rest dots="0" dur="8"/>
+									<beam>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+									</beam>
+								</layer>
 							</staff>
 						</measure>
 						<sb/>
