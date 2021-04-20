@@ -1178,7 +1178,7 @@
 							</staff>
 							<staff facs="#zone_79a6714a-9c75-44b7-a01e-27ae6de297a6" label="2" n="2" xml:id="staff_293b2126-9624-43c4-a94a-43875f1c8365">
 								<layer>
-									<note dots="0" dur="4" oct="5" pname="f"/>
+									<note dots="0" dur="4" oct="4" pname="c"/>
 									<rest dots="0" dur="8"/>
 									<beam/>
 								</layer>
