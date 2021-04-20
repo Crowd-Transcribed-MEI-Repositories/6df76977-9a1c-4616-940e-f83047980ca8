@@ -869,7 +869,7 @@
 								<layer>
 									<beam>
 										<note dots="0" dur="8" oct="5" pname="f"/>
-										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="a"/>
 										<note dots="0" dur="8" oct="5" pname="f"/>
 									</beam>
 								</layer>
