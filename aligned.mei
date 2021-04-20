@@ -210,7 +210,14 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_3ca3a396-88d2-4a0f-a683-e83628113ae8" label="2" n="2" xml:id="staff_7f31e050-7e17-4d81-ae6d-a65d9b776102">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" oct="4" pname="b"/>
+									<beam>
+										<note dots="1" dur="8" oct="4" pname="b"/>
+										<note dots="0" dur="16" oct="4" pname="b"/>
+									</beam>
+									<note dots="0" dur="2" oct="4" pname="b"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_63dd20cc-4b70-4c2e-937a-30351b0a1c1b" label="3" n="3" xml:id="staff_5fc73b3b-41fc-40c7-a043-76d9cc62ee10">
 								<layer/>
