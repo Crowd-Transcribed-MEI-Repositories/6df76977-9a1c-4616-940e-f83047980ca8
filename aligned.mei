@@ -449,15 +449,15 @@
 								<layer>
 									<rest dots="0" dur="8"/>
 									<beam>
-										<note dots="0" dur="8" oct="3" pname="d"/>
-										<note dots="0" dur="8" oct="3" pname="d"/>
-										<note dots="0" dur="8" oct="3" pname="d"/>
+										<note dots="0" dur="8" oct="3" pname="e"/>
+										<note dots="0" dur="8" oct="3" pname="f"/>
+										<note dots="0" dur="8" oct="3" pname="g"/>
 									</beam>
 									<beam>
-										<note dots="0" dur="8" oct="3" pname="d"/>
-										<note dots="0" dur="8" oct="3" pname="d"/>
-										<note dots="0" dur="8" oct="3" pname="d"/>
-										<note dots="0" dur="8" oct="3" pname="d"/>
+										<note dots="0" dur="8" oct="3" pname="a"/>
+										<note dots="0" dur="8" oct="3" pname="b"/>
+										<note dots="0" dur="8" oct="4" pname="c"/>
+										<note dots="0" dur="8" oct="3" pname="b"/>
 									</beam>
 								</layer>
 							</staff>
