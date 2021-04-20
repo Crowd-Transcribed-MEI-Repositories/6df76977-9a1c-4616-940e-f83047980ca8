@@ -694,7 +694,15 @@
 						</measure>
 						<measure label="19" n="19" xml:id="measure_6e933417-dc43-4258-b2f3-5a7897e8a303">
 							<staff facs="#zone_d5f01666-705c-4a9f-99a2-3810edd3668d" label="1" n="1" xml:id="staff_d92e7e5f-2915-454a-affc-22ab8541a52a">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" oct="5" pname="f"/>
+									<rest dots="0" dur="8"/>
+									<beam>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+										<note dots="0" dur="8" oct="5" pname="f"/>
+									</beam>
+								</layer>
 							</staff>
 							<staff facs="#zone_79a6714a-9c75-44b7-a01e-27ae6de297a6" label="2" n="2" xml:id="staff_293b2126-9624-43c4-a94a-43875f1c8365">
 								<layer/>
